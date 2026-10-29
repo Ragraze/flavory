@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Halaman belum bisa dibuka</title>@vite('resources/css/app.css')</head><body><main class="page-width page narrow error-page"><p class="eyeline">500 · Ada masalah pada server</p><h1>Halaman belum bisa dibuka.</h1><p>Coba kembali ke beranda atau muat ulang beberapa saat lagi. Data di browsermu tetap terpisah dari server.</p><a class="button primary" href="/">Kembali ke beranda</a></main></body></html>

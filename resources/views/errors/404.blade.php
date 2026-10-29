@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Halaman tidak ditemukan</title>@vite('resources/css/app.css')</head><body><main class="page-width page narrow error-page"><p class="eyeline">404 · Halaman tidak ditemukan</p><h1>Tautan ini tidak menuju halaman yang tersedia.</h1><p>Alamatnya mungkin berubah. Buka beranda untuk melanjutkan.</p><a class="button primary" href="/">Kembali ke beranda</a></main></body></html>
